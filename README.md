@@ -1,4 +1,4 @@
-# AURORA_UI-UX
+# AURORA_UI/UX 
 
 # PROBLEM STATEMENT
 A web-based app for a club or that allows event planners to easily create, manage, and promote events. The app should include features such as event calendars, registration forms, email invitations, and should be designed to be user-friendly for both event planners and attendees. The celestial theme should be integrated throughout the UI, with a color scheme and visual design that is consistent and visually appealing.
