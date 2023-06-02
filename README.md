@@ -8,7 +8,7 @@ AURORA is the layout designed for an app which allows organizers to plan, organi
 
 # TECHNOLOGIES USED
 * FIGMA- For designing the UI
-* CANVA-For presentation and outline of the project
+* CANVA- For presentation and outline of the project
 
 # FEATURES FOR ORGANIZER
 * Check out astronomical events featured on the calendar
