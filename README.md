@@ -21,7 +21,7 @@ AURORA is the layout designed for an app which allows organizers to plan, organi
   - Analysing ticket sales
   - Checking detailed feedback
  * Promoting events on social media
- * Managing users which includes features such as-
+ * Managing users which includes features such as -
   - Adding a user
   - Removing a user
   - Updating user details
