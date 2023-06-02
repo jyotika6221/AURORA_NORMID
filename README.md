@@ -37,7 +37,7 @@ AURORA is the layout designed for an app which allows organizers to plan, organi
  * Personalised recommendations for events 
 
 # VIDEO DEMO
-This is the link to our video demonstration of the project:https://drive.google.com/file/d/1-ZD4kP0PM6Pp0qe_QG9_zBSBAdTYZf6t/view
+This is the link to our video demonstration of the project: https://drive.google.com/file/d/1-ZD4kP0PM6Pp0qe_QG9_zBSBAdTYZf6t/view
 
 # LINKS
 CANVA Presentation link: https://www.canva.com/design/DAFeOhaYSAs/fQHcRiTC6SZHPHse-pgtcA/edit?utm_content=DAFeOhaYSAs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
